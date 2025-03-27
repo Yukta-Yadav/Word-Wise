@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Word of the Day",
+    "version": "1.0",
+    "description": "Get a new dictionary word every time you open a new tab!",
+    "icons": {
+      "48": "icon.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": ["activeTab"]
+  }
+  
